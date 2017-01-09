@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:javaapplication="http://www.eclipse.org/MoDisco/Java/Composition/0.1.incubation/javaApplication">
+  <javaapplication:Java2File>
+    <file href="../pentago-xl_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.5/@inventoryElement.1/@inventoryElement.6/@inventoryElement.3"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="3" startPosition="24" endLine="3" endPosition="67">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.11/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="4" startPosition="68" endLine="4" endPosition="111">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.11/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="6" startPosition="113" endLine="6" endPosition="140">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.11/@imports.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="7" startPosition="141" endLine="7" endPosition="163">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.11/@imports.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="164" endLine="8" endPosition="185">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.11/@imports.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="186" endLine="9" endPosition="214">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.11/@imports.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="216" endLine="11" endPosition="236">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.11/@imports.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="237" endLine="12" endPosition="257">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.11/@imports.7"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="258" endLine="13" endPosition="277">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.11/@imports.8"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="278" endLine="14" endPosition="309">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.11/@imports.9"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="310" endLine="15" endPosition="347">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.11/@imports.10"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="349" endLine="120" endPosition="3013">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="391" endLine="17" endPosition="401">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@superClass"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="391" endLine="17" endPosition="401">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@superClass"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="413" endLine="17" endPosition="421">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@superInterfaces.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="413" endLine="17" endPosition="421">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@superInterfaces.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="426" endLine="20" endPosition="492">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.0/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="426" endLine="21" endPosition="519">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="435" endLine="19" endPosition="486">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.0/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="435" endLine="19" endPosition="486">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.0/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="503" endLine="21" endPosition="510">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="511" endLine="21" endPosition="518">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="525" endLine="26" endPosition="604">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="525" endLine="25" endPosition="580">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.1/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="534" endLine="24" endPosition="574">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.1/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="534" endLine="24" endPosition="574">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.1/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="591" endLine="26" endPosition="598">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="599" endLine="26" endPosition="603">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="610" endLine="30" endPosition="672">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.2/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="610" endLine="31" endPosition="702">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="619" endLine="29" endPosition="666">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.2/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="619" endLine="29" endPosition="666">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.2/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="683" endLine="31" endPosition="690">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="691" endLine="31" endPosition="701">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="708" endLine="36" endPosition="775">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="708" endLine="35" endPosition="747">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.3/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="717" endLine="34" endPosition="741">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.3/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="717" endLine="34" endPosition="741">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.3/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="758" endLine="36" endPosition="768">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.3/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="769" endLine="36" endPosition="774">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.3/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="781" endLine="40" endPosition="818">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.4/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="781" endLine="41" endPosition="839">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="790" endLine="39" endPosition="812">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.4/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="790" endLine="39" endPosition="812">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.4/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="829" endLine="41" endPosition="833">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.4/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="829" endLine="41" endPosition="833">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.4/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="834" endLine="41" endPosition="838">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.4/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="845" endLine="46" endPosition="938">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="845" endLine="45" endPosition="909">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.5/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="854" endLine="44" endPosition="903">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.5/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="854" endLine="44" endPosition="903">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.5/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="920" endLine="46" endPosition="934">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.5/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="920" endLine="46" endPosition="934">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.5/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="935" endLine="46" endPosition="937">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.5/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="944" endLine="51" endPosition="1029">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="944" endLine="50" endPosition="1006">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.6/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="953" endLine="49" endPosition="1000">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.6/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="953" endLine="49" endPosition="1000">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.6/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1017" endLine="51" endPosition="1022">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.6/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1017" endLine="51" endPosition="1022">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.6/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1023" endLine="51" endPosition="1028">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.6/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="53" startPosition="1035" endLine="57" endPosition="1283">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="53" startPosition="1035" endLine="65" endPosition="1506">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1044" endLine="54" endPosition="1119">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1044" endLine="54" endPosition="1119">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1125" endLine="55" endPosition="1198">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@comments.0/@tags.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1132" endLine="55" endPosition="1139">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@comments.0/@tags.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1139" endLine="55" endPosition="1198">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@comments.0/@tags.1/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1204" endLine="56" endPosition="1277">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@comments.0/@tags.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1211" endLine="56" endPosition="1215">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@comments.0/@tags.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1215" endLine="56" endPosition="1277">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@comments.0/@tags.2/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1314" endLine="58" endPosition="1339">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1314" endLine="58" endPosition="1331">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1341" endLine="58" endPosition="1347">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1341" endLine="58" endPosition="1352">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1341" endLine="58" endPosition="1347">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1354" endLine="65" endPosition="1506">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1360" endLine="59" endPosition="1367">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1360" endLine="59" endPosition="1375">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1360" endLine="59" endPosition="1374">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1370" endLine="59" endPosition="1374">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="61" startPosition="1385" endLine="61" endPosition="1395">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="61" startPosition="1385" endLine="61" endPosition="1442">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="61" startPosition="1396" endLine="61" endPosition="1441">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="61" startPosition="1404" endLine="61" endPosition="1441">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.1/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="61" startPosition="1408" endLine="61" endPosition="1423">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.1/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="61" startPosition="1424" endLine="61" endPosition="1431">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.1/@fragments.0/@initializer/@arguments.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="61" startPosition="1424" endLine="61" endPosition="1440">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.1/@fragments.0/@initializer/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1448" endLine="63" endPosition="1452">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.2/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1448" endLine="63" endPosition="1458">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.2/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1448" endLine="63" endPosition="1466">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1448" endLine="63" endPosition="1467">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1453" endLine="63" endPosition="1458">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.2/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1461" endLine="63" endPosition="1466">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.2/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="1472" endLine="64" endPosition="1502">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="1472" endLine="64" endPosition="1481">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.3/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="1472" endLine="64" endPosition="1476">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.3/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="1472" endLine="64" endPosition="1501">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.3/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="1477" endLine="64" endPosition="1481">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.3/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="1484" endLine="64" endPosition="1501">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.3/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="1484" endLine="64" endPosition="1491">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.3/@expression/@rightHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="1496" endLine="64" endPosition="1500">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.7/@body/@statements.3/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1512" endLine="92" endPosition="2327">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1519" endLine="67" endPosition="1523">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1530" endLine="92" endPosition="2327">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1536" endLine="91" endPosition="2323">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1550" endLine="68" endPosition="1554">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1556" endLine="91" endPosition="2323">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1564" endLine="90" endPosition="2317">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1571" endLine="69" endPosition="1578">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1580" endLine="90" endPosition="2317">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1590" endLine="86" endPosition="2227">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1594" endLine="70" endPosition="1598">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1600" endLine="86" endPosition="2227">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="71" startPosition="1612" endLine="71" endPosition="1639">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.0/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="1650" endLine="72" endPosition="1662">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="1650" endLine="72" endPosition="1654">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="1650" endLine="72" endPosition="1663">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="1657" endLine="72" endPosition="1662">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="1674" endLine="85" endPosition="2217">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="1678" endLine="73" endPosition="1688">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="1690" endLine="79" endPosition="1916">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="1704" endLine="74" endPosition="1707">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="1704" endLine="74" endPosition="1743">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="1708" endLine="74" endPosition="1742">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="1715" endLine="74" endPosition="1742">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.0/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="1715" endLine="74" endPosition="1717">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.0/@fragments.0/@initializer/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="1729" endLine="74" endPosition="1734">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.0/@fragments.0/@initializer/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="1736" endLine="74" endPosition="1741">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.0/@fragments.0/@initializer/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="76" startPosition="1769" endLine="76" endPosition="1815">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.1/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="77" startPosition="1828" endLine="77" endPosition="1840">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="77" startPosition="1828" endLine="77" endPosition="1841">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1854" endLine="78" endPosition="1903">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1854" endLine="78" endPosition="1904">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1870" endLine="78" endPosition="1902">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.2/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1874" endLine="78" endPosition="1879">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.2/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1874" endLine="78" endPosition="1879">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.2/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1880" endLine="78" endPosition="1895">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.2/@expression/@arguments.0/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1897" endLine="78" endPosition="1901">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@statements.2/@expression/@arguments.0/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="79" startPosition="1922" endLine="85" endPosition="2217">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1936" endLine="80" endPosition="1941">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1936" endLine="80" endPosition="1977">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1942" endLine="80" endPosition="1976">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1949" endLine="80" endPosition="1976">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.0/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1949" endLine="80" endPosition="1951">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.0/@fragments.0/@initializer/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1963" endLine="80" endPosition="1968">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.0/@fragments.0/@initializer/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1970" endLine="80" endPosition="1975">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.0/@fragments.0/@initializer/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="82" startPosition="2003" endLine="82" endPosition="2049">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.1/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="83" startPosition="2062" endLine="83" endPosition="2075">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="83" startPosition="2062" endLine="83" endPosition="2074">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2088" endLine="84" endPosition="2204">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2088" endLine="84" endPosition="2205">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2104" endLine="84" endPosition="2203">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2108" endLine="84" endPosition="2113">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2108" endLine="84" endPosition="2113">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2114" endLine="84" endPosition="2129">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2131" endLine="84" endPosition="2135">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.1/@array"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2131" endLine="84" endPosition="2138">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2136" endLine="84" endPosition="2137">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.1/@index"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2140" endLine="84" endPosition="2152">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2140" endLine="84" endPosition="2144">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2/@expression/@leftOperand/@array"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2140" endLine="84" endPosition="2202">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2140" endLine="84" endPosition="2147">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2/@expression/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2145" endLine="84" endPosition="2146">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2/@expression/@leftOperand/@index"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2151" endLine="84" endPosition="2152">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2155" endLine="84" endPosition="2163">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2/@thenExpression/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2155" endLine="84" endPosition="2181">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2/@thenExpression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2164" endLine="84" endPosition="2181">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2/@thenExpression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2184" endLine="84" endPosition="2202">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2/@elseExpression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2184" endLine="84" endPosition="2192">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2/@elseExpression/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="84" startPosition="2193" endLine="84" endPosition="2202">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@statements.2/@expression/@arguments.0/@arguments.2/@elseExpression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="87" startPosition="2236" endLine="89" endPosition="2309">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="87" startPosition="2240" endLine="89" endPosition="2274">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.1/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="88" startPosition="2252" endLine="88" endPosition="2263">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.1/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="88" startPosition="2252" endLine="88" endPosition="2256">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.1/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="88" startPosition="2252" endLine="88" endPosition="2264">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.1/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="89" startPosition="2275" endLine="89" endPosition="2309">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.1/@catchClauses.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="89" startPosition="2282" endLine="89" endPosition="2302">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.1/@catchClauses.0/@exception/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="89" startPosition="2282" endLine="89" endPosition="2302">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.1/@catchClauses.0/@exception/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="89" startPosition="2282" endLine="89" endPosition="2304">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.1/@catchClauses.0/@exception"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="89" startPosition="2306" endLine="89" endPosition="2309">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.8/@body/@statements.0/@body/@statements.0/@body/@statements.1/@catchClauses.0/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="94" startPosition="2333" endLine="96" endPosition="2370">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.9/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="94" startPosition="2333" endLine="99" endPosition="2422">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.9"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="95" startPosition="2342" endLine="95" endPosition="2364">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.9/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="95" startPosition="2342" endLine="95" endPosition="2364">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.9/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="97" startPosition="2380" endLine="97" endPosition="2384">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.9/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="97" startPosition="2396" endLine="99" endPosition="2422">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.9/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="98" startPosition="2402" endLine="98" endPosition="2417">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="98" startPosition="2402" endLine="98" endPosition="2409">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="98" startPosition="2402" endLine="98" endPosition="2418">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="98" startPosition="2412" endLine="98" endPosition="2417">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.9/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="101" startPosition="2428" endLine="118" endPosition="3010">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="101" startPosition="2428" endLine="106" endPosition="2670">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="102" startPosition="2437" endLine="102" endPosition="2473">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="102" startPosition="2437" endLine="102" endPosition="2473">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="103" startPosition="2479" endLine="103" endPosition="2528">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0/@tags.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="103" startPosition="2486" endLine="103" endPosition="2494">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0/@tags.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="103" startPosition="2494" endLine="103" endPosition="2528">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0/@tags.1/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="104" startPosition="2534" endLine="104" endPosition="2598">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0/@tags.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="104" startPosition="2541" endLine="104" endPosition="2551">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0/@tags.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="104" startPosition="2551" endLine="104" endPosition="2598">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0/@tags.2/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="105" startPosition="2604" endLine="105" endPosition="2664">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0/@tags.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="105" startPosition="2611" endLine="105" endPosition="2616">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0/@tags.3/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="105" startPosition="2616" endLine="105" endPosition="2664">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@comments.0/@tags.3/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="107" startPosition="2693" endLine="107" endPosition="2697">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="107" startPosition="2707" endLine="107" endPosition="2722">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="107" startPosition="2707" endLine="107" endPosition="2713">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="107" startPosition="2724" endLine="107" endPosition="2742">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="107" startPosition="2724" endLine="107" endPosition="2731">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="107" startPosition="2744" endLine="107" endPosition="2749">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@parameters.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="107" startPosition="2744" endLine="107" endPosition="2749">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@parameters.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="107" startPosition="2744" endLine="107" endPosition="2755">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@parameters.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="107" startPosition="2757" endLine="118" endPosition="3010">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="108" startPosition="2763" endLine="108" endPosition="2775">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="108" startPosition="2763" endLine="108" endPosition="2774">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="108" startPosition="2763" endLine="108" endPosition="2767">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="108" startPosition="2770" endLine="108" endPosition="2774">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="110" startPosition="2781" endLine="110" endPosition="2832">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="111" startPosition="2837" endLine="111" endPosition="2852">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="111" startPosition="2837" endLine="111" endPosition="2865">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="111" startPosition="2837" endLine="111" endPosition="2866">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="111" startPosition="2837" endLine="111" endPosition="2841">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="111" startPosition="2842" endLine="111" endPosition="2852">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="111" startPosition="2855" endLine="111" endPosition="2865">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="113" startPosition="2876" endLine="113" endPosition="2893">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2898" endLine="114" endPosition="2963">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2898" endLine="114" endPosition="2962">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2898" endLine="114" endPosition="2900">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2903" endLine="114" endPosition="2962">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2907" endLine="114" endPosition="2921">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2907" endLine="114" endPosition="2921">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2922" endLine="114" endPosition="2926">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2928" endLine="114" endPosition="2932">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@rightHandSide/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2934" endLine="114" endPosition="2961">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@rightHandSide/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2938" endLine="114" endPosition="2951">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@rightHandSide/@arguments.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2938" endLine="114" endPosition="2951">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@rightHandSide/@arguments.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="114" startPosition="2952" endLine="114" endPosition="2960">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.2/@expression/@rightHandSide/@arguments.2/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="115" startPosition="2968" endLine="115" endPosition="2978">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.3/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="115" startPosition="2968" endLine="115" endPosition="2987">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="115" startPosition="2968" endLine="115" endPosition="2986">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.3/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="115" startPosition="2968" endLine="115" endPosition="2972">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.3/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="115" startPosition="2973" endLine="115" endPosition="2978">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.3/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="115" startPosition="2981" endLine="115" endPosition="2986">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.3/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="117" startPosition="2997" endLine="117" endPosition="3005">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.4/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="117" startPosition="2997" endLine="117" endPosition="3006">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.10/@body/@statements.4"/>
+    </children>
+    <unit href="../pentago-xl_java.xmi#//@compilationUnits.11"/>
+    <parent href="Package2Directory_java2kdm.xmi#/3"/>
+  </javaapplication:Java2File>
+  <javaapplication:Java2File>
+    <file href="../pentago-xl_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.5/@inventoryElement.1/@inventoryElement.6/@inventoryElement.1"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="3" startPosition="24" endLine="3" endPosition="43">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.12/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="4" startPosition="44" endLine="4" endPosition="64">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.12/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="5" startPosition="65" endLine="5" endPosition="84">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.12/@imports.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="7" startPosition="86" endLine="10" endPosition="169">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="7" startPosition="86" endLine="-1" endPosition="1174">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="93" endLine="9" endPosition="165">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="93" endLine="8" endPosition="136">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="140" endLine="9" endPosition="165">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@comments.0/@tags.0/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="203" endLine="11" endPosition="209">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@superClass"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="203" endLine="11" endPosition="209">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@superClass"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="215" endLine="25" endPosition="668">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="215" endLine="22" endPosition="594">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="224" endLine="14" endPosition="265">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="224" endLine="14" endPosition="265">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="271" endLine="19" endPosition="480">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0/@tags.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="279" endLine="15" endPosition="310">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0/@tags.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="325" endLine="16" endPosition="352">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0/@tags.1/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="373" endLine="17" endPosition="392">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0/@tags.1/@fragments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="413" endLine="18" endPosition="433">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0/@tags.1/@fragments.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="454" endLine="19" endPosition="480">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0/@tags.1/@fragments.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="486" endLine="21" endPosition="588">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0/@tags.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="493" endLine="20" endPosition="534">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0/@tags.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="549" endLine="21" endPosition="588">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@comments.0/@tags.2/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="616" endLine="23" endPosition="627">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="616" endLine="23" endPosition="622">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="616" endLine="23" endPosition="622">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="629" endLine="23" endPosition="638">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="629" endLine="23" endPosition="633">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="629" endLine="23" endPosition="633">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="640" endLine="25" endPosition="668">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="646" endLine="24" endPosition="664">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="652" endLine="24" endPosition="656">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@body/@statements.0/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="658" endLine="24" endPosition="662">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.0/@body/@statements.0/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="674" endLine="34" endPosition="939">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="674" endLine="31" endPosition="864">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="683" endLine="28" endPosition="737">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="683" endLine="28" endPosition="737">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="743" endLine="29" endPosition="792">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@comments.0/@tags.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="750" endLine="29" endPosition="755">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@comments.0/@tags.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="755" endLine="29" endPosition="792">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@comments.0/@tags.1/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="798" endLine="30" endPosition="858">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@comments.0/@tags.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="805" endLine="30" endPosition="810">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@comments.0/@tags.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="810" endLine="30" endPosition="858">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@comments.0/@tags.2/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="874" endLine="32" endPosition="877">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="889" endLine="32" endPosition="894">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="889" endLine="32" endPosition="894">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="889" endLine="32" endPosition="900">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="902" endLine="32" endPosition="912">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="902" endLine="32" endPosition="918">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="920" endLine="34" endPosition="939">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="926" endLine="33" endPosition="935">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="933" endLine="33" endPosition="934">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.1/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="945" endLine="42" endPosition="1171">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="945" endLine="39" endPosition="1077">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="37" startPosition="954" endLine="37" endPosition="1013">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="37" startPosition="954" endLine="37" endPosition="1013">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="1019" endLine="38" endPosition="1071">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@comments.0/@tags.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="1026" endLine="38" endPosition="1031">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@comments.0/@tags.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="1031" endLine="38" endPosition="1071">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@comments.0/@tags.1/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1087" endLine="40" endPosition="1092">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1104" endLine="40" endPosition="1109">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1104" endLine="40" endPosition="1109">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1104" endLine="40" endPosition="1115">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1117" endLine="40" endPosition="1127">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1117" endLine="40" endPosition="1133">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1135" endLine="42" endPosition="1171">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1141" endLine="41" endPosition="1167">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1148" endLine="41" endPosition="1166">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1152" endLine="41" endPosition="1157">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@body/@statements.0/@expression/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1158" endLine="41" endPosition="1166">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@body/@statements.0/@expression/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1160" endLine="41" endPosition="1161">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@body/@statements.0/@expression/@initializer/@expressions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1163" endLine="41" endPosition="1164">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.1/@bodyDeclarations.2/@body/@statements.0/@expression/@initializer/@expressions.1"/>
+    </children>
+    <unit href="../pentago-xl_java.xmi#//@compilationUnits.12"/>
+    <parent href="Package2Directory_java2kdm.xmi#/3"/>
+  </javaapplication:Java2File>
+  <javaapplication:Java2File>
+    <file href="../pentago-xl_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.5/@inventoryElement.1/@inventoryElement.6/@inventoryElement.0"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="3" startPosition="24" endLine="3" endPosition="43">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.13/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="4" startPosition="44" endLine="4" endPosition="64">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.13/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="5" startPosition="65" endLine="5" endPosition="84">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.13/@imports.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="7" startPosition="86" endLine="-1" endPosition="1017">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="7" startPosition="86" endLine="9" endPosition="131">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="93" endLine="8" endPosition="127">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="93" endLine="8" endPosition="127">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="168" endLine="12" endPosition="186">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="176" endLine="12" endPosition="180">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="176" endLine="12" endPosition="180">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="181" endLine="12" endPosition="185">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="189" endLine="13" endPosition="209">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="197" endLine="13" endPosition="203">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="197" endLine="13" endPosition="203">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="204" endLine="13" endPosition="208">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="215" endLine="18" endPosition="302">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="229" endLine="15" endPosition="240">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="229" endLine="15" endPosition="235">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="229" endLine="15" endPosition="235">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="242" endLine="15" endPosition="246">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="242" endLine="15" endPosition="251">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="242" endLine="15" endPosition="246">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="253" endLine="18" endPosition="302">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="259" endLine="16" endPosition="268">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="259" endLine="16" endPosition="276">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="259" endLine="16" endPosition="275">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="259" endLine="16" endPosition="263">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.0/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="264" endLine="16" endPosition="268">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.0/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="271" endLine="16" endPosition="275">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="281" endLine="17" endPosition="285">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.1/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="281" endLine="17" endPosition="297">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="281" endLine="17" endPosition="298">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="281" endLine="17" endPosition="290">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="286" endLine="17" endPosition="290">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.1/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="293" endLine="17" endPosition="297">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.2/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="308" endLine="26" endPosition="427">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="308" endLine="23" endPosition="373">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="317" endLine="21" endPosition="335">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="317" endLine="21" endPosition="335">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="341" endLine="22" endPosition="367">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@comments.0/@tags.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="348" endLine="22" endPosition="367">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@comments.0/@tags.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="383" endLine="24" endPosition="389">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="383" endLine="24" endPosition="389">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="400" endLine="26" endPosition="427">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="406" endLine="25" endPosition="423">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="413" endLine="25" endPosition="417">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="413" endLine="25" endPosition="422">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="418" endLine="25" endPosition="422">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.3/@body/@statements.0/@expression/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="431" endLine="31" endPosition="496">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="431" endLine="34" endPosition="548">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="440" endLine="29" endPosition="458">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="440" endLine="29" endPosition="458">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="464" endLine="30" endPosition="490">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@comments.0/@tags.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="471" endLine="30" endPosition="490">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@comments.0/@tags.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="506" endLine="32" endPosition="510">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="506" endLine="32" endPosition="510">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="521" endLine="34" endPosition="548">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="527" endLine="33" endPosition="544">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="534" endLine="33" endPosition="543">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="534" endLine="33" endPosition="538">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="539" endLine="33" endPosition="543">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4/@body/@statements.0/@expression/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="554" endLine="41" endPosition="812">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="554" endLine="40" endPosition="747">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="37" startPosition="563" endLine="37" endPosition="619">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="37" startPosition="563" endLine="37" endPosition="619">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="625" endLine="38" endPosition="674">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@comments.0/@tags.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="632" endLine="38" endPosition="637">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@comments.0/@tags.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="637" endLine="38" endPosition="674">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@comments.0/@tags.1/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="680" endLine="39" endPosition="741">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@comments.0/@tags.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="687" endLine="39" endPosition="692">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@comments.0/@tags.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="692" endLine="39" endPosition="741">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@comments.0/@tags.2/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="766" endLine="41" endPosition="769">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="781" endLine="41" endPosition="792">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="781" endLine="41" endPosition="786">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="781" endLine="41" endPosition="786">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="794" endLine="41" endPosition="810">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="794" endLine="41" endPosition="804">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.5/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="818" endLine="47" endPosition="1014">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="818" endLine="46" endPosition="947">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="827" endLine="44" endPosition="886">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="827" endLine="44" endPosition="886">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="892" endLine="45" endPosition="941">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@comments.0/@tags.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="899" endLine="45" endPosition="904">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@comments.0/@tags.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="904" endLine="45" endPosition="941">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@comments.0/@tags.1/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="966" endLine="47" endPosition="971">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="983" endLine="47" endPosition="994">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="983" endLine="47" endPosition="988">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="983" endLine="47" endPosition="988">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="995" endLine="33" endPosition="1002">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="996" endLine="47" endPosition="1012">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="996" endLine="47" endPosition="1006">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.6/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1205" endLine="40" endPosition="1212">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.2/@bodyDeclarations.4"/>
+    </children>
+    <unit href="../pentago-xl_java.xmi#//@compilationUnits.13"/>
+    <parent href="Package2Directory_java2kdm.xmi#/3"/>
+  </javaapplication:Java2File>
+  <javaapplication:Java2File>
+    <file href="../pentago-xl_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.5/@inventoryElement.1/@inventoryElement.6/@inventoryElement.2"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="3" startPosition="24" endLine="3" endPosition="43">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.14/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="4" startPosition="44" endLine="4" endPosition="64">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.14/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="5" startPosition="65" endLine="5" endPosition="90">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.14/@imports.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="6" startPosition="91" endLine="6" endPosition="110">
+      <node href="../pentago-xl_java.xmi#//@compilationUnits.14/@imports.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="112" endLine="-1" endPosition="1230">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="148" endLine="8" endPosition="154">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@superClass"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="148" endLine="8" endPosition="154">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@superClass"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="162" endLine="10" endPosition="188">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="170" endLine="10" endPosition="178">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="170" endLine="10" endPosition="178">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="179" endLine="10" endPosition="187">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="192" endLine="25" endPosition="706">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="192" endLine="21" endPosition="578">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="202" endLine="13" endPosition="241">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="202" endLine="13" endPosition="241">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="248" endLine="18" endPosition="461">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0/@tags.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="256" endLine="14" endPosition="287">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0/@tags.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="303" endLine="15" endPosition="330">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0/@tags.1/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="352" endLine="16" endPosition="371">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0/@tags.1/@fragments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="393" endLine="17" endPosition="413">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0/@tags.1/@fragments.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="435" endLine="18" endPosition="461">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0/@tags.1/@fragments.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="468" endLine="20" endPosition="571">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0/@tags.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="475" endLine="19" endPosition="516">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0/@tags.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="532" endLine="20" endPosition="571">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@comments.0/@tags.2/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="605" endLine="22" endPosition="611">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="605" endLine="22" endPosition="611">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="605" endLine="22" endPosition="616">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="618" endLine="22" endPosition="622">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="618" endLine="22" endPosition="622">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="618" endLine="22" endPosition="627">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="629" endLine="22" endPosition="646">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@parameters.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="629" endLine="22" endPosition="637">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@parameters.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="629" endLine="22" endPosition="637">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@parameters.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="648" endLine="25" endPosition="706">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="654" endLine="23" endPosition="672">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="660" endLine="23" endPosition="664">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@body/@statements.0/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="666" endLine="23" endPosition="670">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@body/@statements.0/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="677" endLine="24" endPosition="701">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="677" endLine="24" endPosition="690">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="677" endLine="24" endPosition="681">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@body/@statements.1/@expression/@leftHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="677" endLine="24" endPosition="702">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="682" endLine="24" endPosition="690">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@body/@statements.1/@expression/@leftHandSide/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="693" endLine="24" endPosition="701">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.1/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="712" endLine="31" endPosition="889">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="712" endLine="34" endPosition="1017">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="721" endLine="28" endPosition="775">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="721" endLine="28" endPosition="775">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="781" endLine="29" endPosition="819">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@comments.0/@tags.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="788" endLine="29" endPosition="793">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@comments.0/@tags.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="793" endLine="29" endPosition="819">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@comments.0/@tags.1/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="825" endLine="30" endPosition="883">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@comments.0/@tags.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="832" endLine="30" endPosition="837">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@comments.0/@tags.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="837" endLine="30" endPosition="883">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@comments.0/@tags.2/@fragments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="899" endLine="32" endPosition="902">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="914" endLine="32" endPosition="919">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="914" endLine="32" endPosition="919">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="914" endLine="32" endPosition="925">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="927" endLine="32" endPosition="943">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="927" endLine="32" endPosition="937">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="945" endLine="34" endPosition="1017">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="951" endLine="33" endPosition="1013">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="958" endLine="33" endPosition="971">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="958" endLine="33" endPosition="962">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@body/@statements.0/@expression/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="958" endLine="33" endPosition="1012">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="963" endLine="33" endPosition="971">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@body/@statements.0/@expression/@expression/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="983" endLine="33" endPosition="988">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@body/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="990" endLine="33" endPosition="1004">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@body/@statements.0/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="990" endLine="33" endPosition="994">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@body/@statements.0/@expression/@arguments.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="1006" endLine="33" endPosition="1011">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.2/@body/@statements.0/@expression/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="1023" endLine="41" endPosition="1227">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="1023" endLine="38" endPosition="1097">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="37" startPosition="1032" endLine="37" endPosition="1091">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="37" startPosition="1032" endLine="37" endPosition="1091">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1107" endLine="39" endPosition="1112">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1124" endLine="39" endPosition="1129">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1124" endLine="39" endPosition="1135">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1124" endLine="39" endPosition="1129">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1137" endLine="39" endPosition="1147">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1137" endLine="39" endPosition="1153">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1155" endLine="41" endPosition="1227">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1161" endLine="40" endPosition="1223">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1168" endLine="40" endPosition="1222">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1168" endLine="40" endPosition="1181">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1168" endLine="40" endPosition="1172">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@body/@statements.0/@expression/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1173" endLine="40" endPosition="1181">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@body/@statements.0/@expression/@expression/@field"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1193" endLine="40" endPosition="1198">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@body/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1200" endLine="40" endPosition="1204">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@body/@statements.0/@expression/@arguments.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1200" endLine="40" endPosition="1214">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@body/@statements.0/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1216" endLine="40" endPosition="1221">
+      <node href="../pentago-xl_java.xmi#//@ownedElements.1/@ownedPackages.1/@ownedElements.3/@bodyDeclarations.3/@body/@statements.0/@expression/@arguments.2"/>
+    </children>
+    <unit href="../pentago-xl_java.xmi#//@compilationUnits.14"/>
+    <parent href="Package2Directory_java2kdm.xmi#/3"/>
+  </javaapplication:Java2File>
+</xmi:XMI>

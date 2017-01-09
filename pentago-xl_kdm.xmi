@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="ASCII"?>
+<kdm:Segment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:kdm="http://www.eclipse.org/MoDisco/kdm/kdm" xmlns:source="http://www.eclipse.org/MoDisco/kdm/source">
+  <model xsi:type="source:InventoryModel" name="pentago-xl">
+    <inventoryElement xsi:type="source:Project" name="pentago-xl">
+      <inventoryElement xsi:type="source:SourceFile" name="pentago-xl_java.xmi" path="/home/langstra/workspace/pentago-xl/pentago-xl_java.xmi"/>
+      <inventoryElement xsi:type="source:SourceFile" name="README.md" path="/home/langstra/workspace/pentago-xl/README.md"/>
+      <inventoryElement xsi:type="source:SourceFile" name="IDEAS.md" path="/home/langstra/workspace/pentago-xl/IDEAS.md"/>
+      <inventoryElement xsi:type="source:Configuration" name=".project" path="/home/langstra/workspace/pentago-xl/.project"/>
+      <inventoryElement xsi:type="source:Directory" name="lib" path="/home/langstra/workspace/pentago-xl/lib">
+        <inventoryElement xsi:type="source:BinaryFile" name="junit.jar" path="/home/langstra/workspace/pentago-xl/lib/junit.jar"/>
+      </inventoryElement>
+      <inventoryElement xsi:type="source:Directory" name="src" path="/home/langstra/workspace/pentago-xl/src">
+        <inventoryElement xsi:type="source:Directory" name="tests" path="/home/langstra/workspace/pentago-xl/src/tests">
+          <inventoryElement xsi:type="source:SourceFile" name="GameTest.java" path="/home/langstra/workspace/pentago-xl/src/tests/GameTest.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="MarkTest.java" path="/home/langstra/workspace/pentago-xl/src/tests/MarkTest.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="NetworkTestCase.java" path="/home/langstra/workspace/pentago-xl/src/tests/NetworkTestCase.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="EventTest.java" path="/home/langstra/workspace/pentago-xl/src/tests/EventTest.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="GameRequestListTest.java" path="/home/langstra/workspace/pentago-xl/src/tests/GameRequestListTest.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="BoardTest.java" path="/home/langstra/workspace/pentago-xl/src/tests/BoardTest.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="ChallengeRequestListTest.java" path="/home/langstra/workspace/pentago-xl/src/tests/ChallengeRequestListTest.java"/>
+        </inventoryElement>
+        <inventoryElement xsi:type="source:Directory" name="models" path="/home/langstra/workspace/pentago-xl/src/models">
+          <inventoryElement xsi:type="source:Directory" name="strategy" path="/home/langstra/workspace/pentago-xl/src/models/strategy">
+            <inventoryElement xsi:type="source:SourceFile" name="Strategy.java" path="/home/langstra/workspace/pentago-xl/src/models/strategy/Strategy.java"/>
+            <inventoryElement xsi:type="source:SourceFile" name="n00bStrategy.java" path="/home/langstra/workspace/pentago-xl/src/models/strategy/n00bStrategy.java"/>
+            <inventoryElement xsi:type="source:SourceFile" name="SmartStrategy.java" path="/home/langstra/workspace/pentago-xl/src/models/strategy/SmartStrategy.java"/>
+          </inventoryElement>
+          <inventoryElement xsi:type="source:SourceFile" name="Board.java" path="/home/langstra/workspace/pentago-xl/src/models/Board.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="Event.java" path="/home/langstra/workspace/pentago-xl/src/models/Event.java"/>
+          <inventoryElement xsi:type="source:Directory" name="network" path="/home/langstra/workspace/pentago-xl/src/models/network">
+            <inventoryElement xsi:type="source:SourceFile" name="Protocol.java" path="/home/langstra/workspace/pentago-xl/src/models/network/Protocol.java"/>
+            <inventoryElement xsi:type="source:SourceFile" name="Game.java" path="/home/langstra/workspace/pentago-xl/src/models/network/Game.java"/>
+            <inventoryElement xsi:type="source:SourceFile" name="Server.java" path="/home/langstra/workspace/pentago-xl/src/models/network/Server.java"/>
+            <inventoryElement xsi:type="source:SourceFile" name="ClientHandler.java" path="/home/langstra/workspace/pentago-xl/src/models/network/ClientHandler.java"/>
+            <inventoryElement xsi:type="source:SourceFile" name="Client.java" path="/home/langstra/workspace/pentago-xl/src/models/network/Client.java"/>
+            <inventoryElement xsi:type="source:SourceFile" name="Commander.java" path="/home/langstra/workspace/pentago-xl/src/models/network/Commander.java"/>
+          </inventoryElement>
+          <inventoryElement xsi:type="source:SourceFile" name="Mark.java" path="/home/langstra/workspace/pentago-xl/src/models/Mark.java"/>
+          <inventoryElement xsi:type="source:Directory" name="requestlist" path="/home/langstra/workspace/pentago-xl/src/models/requestlist">
+            <inventoryElement xsi:type="source:SourceFile" name="ChallengeRequestList.java" path="/home/langstra/workspace/pentago-xl/src/models/requestlist/ChallengeRequestList.java"/>
+            <inventoryElement xsi:type="source:SourceFile" name="GameRequestList.java" path="/home/langstra/workspace/pentago-xl/src/models/requestlist/GameRequestList.java"/>
+          </inventoryElement>
+          <inventoryElement xsi:type="source:Directory" name="player" path="/home/langstra/workspace/pentago-xl/src/models/player">
+            <inventoryElement xsi:type="source:SourceFile" name="Player.java" path="/home/langstra/workspace/pentago-xl/src/models/player/Player.java"/>
+            <inventoryElement xsi:type="source:SourceFile" name="HumanPlayer.java" path="/home/langstra/workspace/pentago-xl/src/models/player/HumanPlayer.java"/>
+            <inventoryElement xsi:type="source:SourceFile" name="ComputerPlayer.java" path="/home/langstra/workspace/pentago-xl/src/models/player/ComputerPlayer.java"/>
+            <inventoryElement xsi:type="source:SourceFile" name="ComputerPlayerThread.java" path="/home/langstra/workspace/pentago-xl/src/models/player/ComputerPlayerThread.java"/>
+          </inventoryElement>
+        </inventoryElement>
+        <inventoryElement xsi:type="source:Directory" name="views" path="/home/langstra/workspace/pentago-xl/src/views">
+          <inventoryElement xsi:type="source:SourceFile" name="GameView.java" path="/home/langstra/workspace/pentago-xl/src/views/GameView.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="View.java" path="/home/langstra/workspace/pentago-xl/src/views/View.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="LobbyView.java" path="/home/langstra/workspace/pentago-xl/src/views/LobbyView.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="ServerView.java" path="/home/langstra/workspace/pentago-xl/src/views/ServerView.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="ConnectView.java" path="/home/langstra/workspace/pentago-xl/src/views/ConnectView.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="PlayerView.java" path="/home/langstra/workspace/pentago-xl/src/views/PlayerView.java"/>
+        </inventoryElement>
+        <inventoryElement xsi:type="source:Directory" name="controllers" path="/home/langstra/workspace/pentago-xl/src/controllers">
+          <inventoryElement xsi:type="source:SourceFile" name="ServerController.java" path="/home/langstra/workspace/pentago-xl/src/controllers/ServerController.java"/>
+          <inventoryElement xsi:type="source:SourceFile" name="ClientController.java" path="/home/langstra/workspace/pentago-xl/src/controllers/ClientController.java"/>
+        </inventoryElement>
+      </inventoryElement>
+      <inventoryElement xsi:type="source:Directory" name="images" path="/home/langstra/workspace/pentago-xl/images">
+        <inventoryElement xsi:type="source:Image" name="pxl.png" path="/home/langstra/workspace/pentago-xl/images/pxl.png"/>
+      </inventoryElement>
+      <inventoryElement xsi:type="source:Directory" name="test" path="/home/langstra/workspace/pentago-xl/test">
+        <inventoryElement xsi:type="source:Directory" name="integration" path="/home/langstra/workspace/pentago-xl/test/integration">
+          <inventoryElement xsi:type="source:SourceFile" name="server_test.coffee" path="/home/langstra/workspace/pentago-xl/test/integration/server_test.coffee"/>
+        </inventoryElement>
+      </inventoryElement>
+      <inventoryElement xsi:type="source:Directory" name=".git" path="/home/langstra/workspace/pentago-xl/.git">
+        <inventoryElement xsi:type="source:SourceFile" name="index" path="/home/langstra/workspace/pentago-xl/.git/index"/>
+        <inventoryElement xsi:type="source:Directory" name="logs" path="/home/langstra/workspace/pentago-xl/.git/logs">
+          <inventoryElement xsi:type="source:SourceFile" name="HEAD" path="/home/langstra/workspace/pentago-xl/.git/logs/HEAD"/>
+          <inventoryElement xsi:type="source:Directory" name="refs" path="/home/langstra/workspace/pentago-xl/.git/logs/refs">
+            <inventoryElement xsi:type="source:Directory" name="heads" path="/home/langstra/workspace/pentago-xl/.git/logs/refs/heads">
+              <inventoryElement xsi:type="source:SourceFile" name="master" path="/home/langstra/workspace/pentago-xl/.git/logs/refs/heads/master"/>
+            </inventoryElement>
+            <inventoryElement xsi:type="source:Directory" name="remotes" path="/home/langstra/workspace/pentago-xl/.git/logs/refs/remotes">
+              <inventoryElement xsi:type="source:Directory" name="origin" path="/home/langstra/workspace/pentago-xl/.git/logs/refs/remotes/origin">
+                <inventoryElement xsi:type="source:SourceFile" name="HEAD" path="/home/langstra/workspace/pentago-xl/.git/logs/refs/remotes/origin/HEAD"/>
+              </inventoryElement>
+            </inventoryElement>
+          </inventoryElement>
+        </inventoryElement>
+        <inventoryElement xsi:type="source:SourceFile" name="HEAD" path="/home/langstra/workspace/pentago-xl/.git/HEAD"/>
+        <inventoryElement xsi:type="source:Directory" name="hooks" path="/home/langstra/workspace/pentago-xl/.git/hooks">
+          <inventoryElement xsi:type="source:SourceFile" name="pre-rebase.sample" path="/home/langstra/workspace/pentago-xl/.git/hooks/pre-rebase.sample"/>
+          <inventoryElement xsi:type="source:SourceFile" name="post-update.sample" path="/home/langstra/workspace/pentago-xl/.git/hooks/post-update.sample"/>
+          <inventoryElement xsi:type="source:SourceFile" name="pre-push.sample" path="/home/langstra/workspace/pentago-xl/.git/hooks/pre-push.sample"/>
+          <inventoryElement xsi:type="source:SourceFile" name="applypatch-msg.sample" path="/home/langstra/workspace/pentago-xl/.git/hooks/applypatch-msg.sample"/>
+          <inventoryElement xsi:type="source:SourceFile" name="pre-commit.sample" path="/home/langstra/workspace/pentago-xl/.git/hooks/pre-commit.sample"/>
+          <inventoryElement xsi:type="source:SourceFile" name="update.sample" path="/home/langstra/workspace/pentago-xl/.git/hooks/update.sample"/>
+          <inventoryElement xsi:type="source:SourceFile" name="pre-applypatch.sample" path="/home/langstra/workspace/pentago-xl/.git/hooks/pre-applypatch.sample"/>
+          <inventoryElement xsi:type="source:SourceFile" name="prepare-commit-msg.sample" path="/home/langstra/workspace/pentago-xl/.git/hooks/prepare-commit-msg.sample"/>
+          <inventoryElement xsi:type="source:SourceFile" name="commit-msg.sample" path="/home/langstra/workspace/pentago-xl/.git/hooks/commit-msg.sample"/>
+        </inventoryElement>
+        <inventoryElement xsi:type="source:Directory" name="branches" path="/home/langstra/workspace/pentago-xl/.git/branches"/>
+        <inventoryElement xsi:type="source:SourceFile" name="description" path="/home/langstra/workspace/pentago-xl/.git/description"/>
+        <inventoryElement xsi:type="source:Directory" name="refs" path="/home/langstra/workspace/pentago-xl/.git/refs">
+          <inventoryElement xsi:type="source:Directory" name="heads" path="/home/langstra/workspace/pentago-xl/.git/refs/heads">
+            <inventoryElement xsi:type="source:SourceFile" name="master" path="/home/langstra/workspace/pentago-xl/.git/refs/heads/master"/>
+          </inventoryElement>
+          <inventoryElement xsi:type="source:Directory" name="tags" path="/home/langstra/workspace/pentago-xl/.git/refs/tags"/>
+          <inventoryElement xsi:type="source:Directory" name="remotes" path="/home/langstra/workspace/pentago-xl/.git/refs/remotes">
+            <inventoryElement xsi:type="source:Directory" name="origin" path="/home/langstra/workspace/pentago-xl/.git/refs/remotes/origin">
+              <inventoryElement xsi:type="source:SourceFile" name="HEAD" path="/home/langstra/workspace/pentago-xl/.git/refs/remotes/origin/HEAD"/>
+            </inventoryElement>
+          </inventoryElement>
+        </inventoryElement>
+        <inventoryElement xsi:type="source:Directory" name="objects" path="/home/langstra/workspace/pentago-xl/.git/objects">
+          <inventoryElement xsi:type="source:Directory" name="pack" path="/home/langstra/workspace/pentago-xl/.git/objects/pack">
+            <inventoryElement xsi:type="source:SourceFile" name="pack-f1ce8277aea26507e8440200e561e951b30e18b9.idx" path="/home/langstra/workspace/pentago-xl/.git/objects/pack/pack-f1ce8277aea26507e8440200e561e951b30e18b9.idx"/>
+            <inventoryElement xsi:type="source:SourceFile" name="pack-f1ce8277aea26507e8440200e561e951b30e18b9.pack" path="/home/langstra/workspace/pentago-xl/.git/objects/pack/pack-f1ce8277aea26507e8440200e561e951b30e18b9.pack"/>
+          </inventoryElement>
+          <inventoryElement xsi:type="source:Directory" name="info" path="/home/langstra/workspace/pentago-xl/.git/objects/info"/>
+        </inventoryElement>
+        <inventoryElement xsi:type="source:SourceFile" name="config" path="/home/langstra/workspace/pentago-xl/.git/config"/>
+        <inventoryElement xsi:type="source:SourceFile" name="packed-refs" path="/home/langstra/workspace/pentago-xl/.git/packed-refs"/>
+        <inventoryElement xsi:type="source:Directory" name="info" path="/home/langstra/workspace/pentago-xl/.git/info">
+          <inventoryElement xsi:type="source:SourceFile" name="exclude" path="/home/langstra/workspace/pentago-xl/.git/info/exclude"/>
+        </inventoryElement>
+      </inventoryElement>
+      <inventoryElement xsi:type="source:SourceFile" name="Cakefile" path="/home/langstra/workspace/pentago-xl/Cakefile"/>
+      <inventoryElement xsi:type="source:Directory" name="bin" path="/home/langstra/workspace/pentago-xl/bin">
+        <inventoryElement xsi:type="source:Directory" name="tests" path="/home/langstra/workspace/pentago-xl/bin/tests">
+          <inventoryElement xsi:type="source:BinaryFile" name="BoardTest.class" path="/home/langstra/workspace/pentago-xl/bin/tests/BoardTest.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="MarkTest.class" path="/home/langstra/workspace/pentago-xl/bin/tests/MarkTest.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="GameRequestListTest.class" path="/home/langstra/workspace/pentago-xl/bin/tests/GameRequestListTest.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="EventTest.class" path="/home/langstra/workspace/pentago-xl/bin/tests/EventTest.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="GameTest.class" path="/home/langstra/workspace/pentago-xl/bin/tests/GameTest.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="NetworkTestCase.class" path="/home/langstra/workspace/pentago-xl/bin/tests/NetworkTestCase.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="ChallengeRequestListTest.class" path="/home/langstra/workspace/pentago-xl/bin/tests/ChallengeRequestListTest.class"/>
+        </inventoryElement>
+        <inventoryElement xsi:type="source:Directory" name="models" path="/home/langstra/workspace/pentago-xl/bin/models">
+          <inventoryElement xsi:type="source:Directory" name="strategy" path="/home/langstra/workspace/pentago-xl/bin/models/strategy">
+            <inventoryElement xsi:type="source:BinaryFile" name="SmartStrategy.class" path="/home/langstra/workspace/pentago-xl/bin/models/strategy/SmartStrategy.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="n00bStrategy.class" path="/home/langstra/workspace/pentago-xl/bin/models/strategy/n00bStrategy.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="Strategy.class" path="/home/langstra/workspace/pentago-xl/bin/models/strategy/Strategy.class"/>
+          </inventoryElement>
+          <inventoryElement xsi:type="source:BinaryFile" name="Board.class" path="/home/langstra/workspace/pentago-xl/bin/models/Board.class"/>
+          <inventoryElement xsi:type="source:Directory" name="network" path="/home/langstra/workspace/pentago-xl/bin/models/network">
+            <inventoryElement xsi:type="source:BinaryFile" name="ClientHandler.class" path="/home/langstra/workspace/pentago-xl/bin/models/network/ClientHandler.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="Commander.class" path="/home/langstra/workspace/pentago-xl/bin/models/network/Commander.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="Server.class" path="/home/langstra/workspace/pentago-xl/bin/models/network/Server.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="Game.class" path="/home/langstra/workspace/pentago-xl/bin/models/network/Game.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="Protocol.class" path="/home/langstra/workspace/pentago-xl/bin/models/network/Protocol.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="Client.class" path="/home/langstra/workspace/pentago-xl/bin/models/network/Client.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="Game$InvalidPlayerCountException.class" path="/home/langstra/workspace/pentago-xl/bin/models/network/Game$InvalidPlayerCountException.class"/>
+          </inventoryElement>
+          <inventoryElement xsi:type="source:BinaryFile" name="Mark.class" path="/home/langstra/workspace/pentago-xl/bin/models/Mark.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="Board$IllegalMoveException.class" path="/home/langstra/workspace/pentago-xl/bin/models/Board$IllegalMoveException.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="Event.class" path="/home/langstra/workspace/pentago-xl/bin/models/Event.class"/>
+          <inventoryElement xsi:type="source:Directory" name="requestlist" path="/home/langstra/workspace/pentago-xl/bin/models/requestlist">
+            <inventoryElement xsi:type="source:BinaryFile" name="GameRequestList.class" path="/home/langstra/workspace/pentago-xl/bin/models/requestlist/GameRequestList.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="ChallengeRequestList.class" path="/home/langstra/workspace/pentago-xl/bin/models/requestlist/ChallengeRequestList.class"/>
+          </inventoryElement>
+          <inventoryElement xsi:type="source:Directory" name="player" path="/home/langstra/workspace/pentago-xl/bin/models/player">
+            <inventoryElement xsi:type="source:BinaryFile" name="ComputerPlayerThread.class" path="/home/langstra/workspace/pentago-xl/bin/models/player/ComputerPlayerThread.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="HumanPlayer.class" path="/home/langstra/workspace/pentago-xl/bin/models/player/HumanPlayer.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="Player.class" path="/home/langstra/workspace/pentago-xl/bin/models/player/Player.class"/>
+            <inventoryElement xsi:type="source:BinaryFile" name="ComputerPlayer.class" path="/home/langstra/workspace/pentago-xl/bin/models/player/ComputerPlayer.class"/>
+          </inventoryElement>
+        </inventoryElement>
+        <inventoryElement xsi:type="source:Directory" name="views" path="/home/langstra/workspace/pentago-xl/bin/views">
+          <inventoryElement xsi:type="source:BinaryFile" name="LobbyView.class" path="/home/langstra/workspace/pentago-xl/bin/views/LobbyView.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="View.class" path="/home/langstra/workspace/pentago-xl/bin/views/View.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="ServerView.class" path="/home/langstra/workspace/pentago-xl/bin/views/ServerView.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="GameView.class" path="/home/langstra/workspace/pentago-xl/bin/views/GameView.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="ConnectView.class" path="/home/langstra/workspace/pentago-xl/bin/views/ConnectView.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="PlayerView.class" path="/home/langstra/workspace/pentago-xl/bin/views/PlayerView.class"/>
+        </inventoryElement>
+        <inventoryElement xsi:type="source:Directory" name="controllers" path="/home/langstra/workspace/pentago-xl/bin/controllers">
+          <inventoryElement xsi:type="source:BinaryFile" name="ClientController$BackgroundLobbyTask.class" path="/home/langstra/workspace/pentago-xl/bin/controllers/ClientController$BackgroundLobbyTask.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="ClientController$ConnectThread.class" path="/home/langstra/workspace/pentago-xl/bin/controllers/ClientController$ConnectThread.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="ServerController.class" path="/home/langstra/workspace/pentago-xl/bin/controllers/ServerController.class"/>
+          <inventoryElement xsi:type="source:BinaryFile" name="ClientController.class" path="/home/langstra/workspace/pentago-xl/bin/controllers/ClientController.class"/>
+        </inventoryElement>
+      </inventoryElement>
+      <inventoryElement xsi:type="source:Configuration" name=".classpath" path="/home/langstra/workspace/pentago-xl/.classpath"/>
+      <inventoryElement xsi:type="source:SourceFile" name="TODO.md" path="/home/langstra/workspace/pentago-xl/TODO.md"/>
+      <inventoryElement xsi:type="source:SourceFile" name=".gitignore" path="/home/langstra/workspace/pentago-xl/.gitignore"/>
+      <inventoryElement xsi:type="source:SourceFile" name="MANUAL.md" path="/home/langstra/workspace/pentago-xl/MANUAL.md"/>
+    </inventoryElement>
+  </model>
+</kdm:Segment>

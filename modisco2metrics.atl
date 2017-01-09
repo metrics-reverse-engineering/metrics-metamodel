@@ -1,0 +1,4 @@
+module modisco2metrics;
+
+create OUT : METRICS from IN : MODISCO;
+
